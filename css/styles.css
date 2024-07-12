@@ -83,5 +83,6 @@ body{
 .name{
     margin: 0;
     padding-top: 2rem;
-    border-top: 1px var(--linecolor) solid
+    border-top: 1px var(--linecolor) solid;
+    color: #6C727F;
 }
